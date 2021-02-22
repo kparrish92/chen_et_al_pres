@@ -1,0 +1,8 @@
+base
+magrittr
+imager
+ggplot2
+googleVis
+knitr
+htmlwidgets
+dplyr
